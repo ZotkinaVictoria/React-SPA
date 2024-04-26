@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-SPA/static/css/main.a4d7f896.css",
-    "main.js": "/React-SPA/static/js/main.2713c5f6.js",
+    "main.js": "/React-SPA/static/js/main.48f3f497.js",
     "static/js/453.1b6cbde4.chunk.js": "/React-SPA/static/js/453.1b6cbde4.chunk.js",
     "static/media/povar2.png": "/React-SPA/static/media/povar2.86b1948ede9c1a53fd01.png",
     "static/media/povar3.jpeg": "/React-SPA/static/media/povar3.7938df839e60b050414c.jpeg",
@@ -10,11 +10,11 @@
     "static/media/karta.png": "/React-SPA/static/media/karta.63d5629fe06383f76471.png",
     "index.html": "/React-SPA/index.html",
     "main.a4d7f896.css.map": "/React-SPA/static/css/main.a4d7f896.css.map",
-    "main.2713c5f6.js.map": "/React-SPA/static/js/main.2713c5f6.js.map",
+    "main.48f3f497.js.map": "/React-SPA/static/js/main.48f3f497.js.map",
     "453.1b6cbde4.chunk.js.map": "/React-SPA/static/js/453.1b6cbde4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4d7f896.css",
-    "static/js/main.2713c5f6.js"
+    "static/js/main.48f3f497.js"
   ]
 }
